@@ -1,6 +1,6 @@
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/Extras/Global"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tiendeptraithe/pxlv6/main/traidat"))()
 VG.DisableConnection(Error)
 VG.DisableConnection(Idled)
 
